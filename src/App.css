@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap')
+
+body{
+  font-family:"Jost", serif;
+  
+}
+nav{
+  z-index:10001  !important ;
+}
+
+.gradentBg{
+  background: linear-gradient(99deg ,#EE9AE5 0% ,#5961F9 100%);
+}
+
+.btnPrimary{
+  @layer px-2 py-2 font-semibold text-white transition-all duration-300 rounded bg-secondary hover:bg-primary;
+}

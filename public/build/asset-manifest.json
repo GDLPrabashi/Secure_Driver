@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/secure_driver_project/static/css/main.e8523c34.css",
+    "main.js": "/secure_driver_project/static/js/main.f6a6b758.js",
+    "static/js/453.f2284e6a.chunk.js": "/secure_driver_project/static/js/453.f2284e6a.chunk.js",
+    "static/media/homepic2.png": "/secure_driver_project/static/media/homepic2.99b99fd9d9250062ddf3.png",
+    "static/media/about.jpg": "/secure_driver_project/static/media/about.72c8bde09e170282d7e1.jpg",
+    "static/media/contact.jpg": "/secure_driver_project/static/media/contact.7ad6732526721f5dd8ea.jpg",
+    "static/media/system.jpg": "/secure_driver_project/static/media/system.316b31d3b4483a76f5cc.jpg",
+    "static/media/company.jpg": "/secure_driver_project/static/media/company.eeb5be8fc9b8f3646773.jpg",
+    "static/media/homepic1.jpg": "/secure_driver_project/static/media/homepic1.df56f04c97eac9a7e42e.jpg",
+    "static/media/logo.jpeg": "/secure_driver_project/static/media/logo.f7cce5516a828551e1d0.jpeg",
+    "index.html": "/secure_driver_project/index.html",
+    "main.e8523c34.css.map": "/secure_driver_project/static/css/main.e8523c34.css.map",
+    "main.f6a6b758.js.map": "/secure_driver_project/static/js/main.f6a6b758.js.map",
+    "453.f2284e6a.chunk.js.map": "/secure_driver_project/static/js/453.f2284e6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8523c34.css",
+    "static/js/main.f6a6b758.js"
+  ]
+}
